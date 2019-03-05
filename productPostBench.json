@@ -1,0 +1,5 @@
+{
+    "name": "Test product",
+    "description": "Test product used to benchmark rest api",
+    "price": 109.209
+}
